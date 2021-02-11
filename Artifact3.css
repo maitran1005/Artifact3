@@ -1,0 +1,37 @@
+#upLeft {
+float: left;
+
+}
+#downLeft {
+float: left;
+}
+#upRight {
+
+float: left;
+}
+
+#downRight {
+
+float: left;
+}
+.clear {
+clear: both;
+}
+.space {
+  color: #FFF8DC;
+}
+#container {
+  padding-top: 100px;
+  padding-left:80px;
+  font-size: 20px;
+}
+body{
+ background-color:#FFF8DC;
+ padding-left:510px;
+ padding-top: 100px;
+ padding-bottom: 500px;
+}
+label{
+  color: blue;
+  font-size: 20px;
+}
